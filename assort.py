@@ -2,7 +2,7 @@ import _thread
 import time
 
 def assort(N):
-	time.sleep(N//2)
+	time.sleep(N/2) #lemme sleep
 	print(N)
 
 try:
@@ -14,3 +14,5 @@ except:
 while 1:
 	pass
 
+
+'''	God who art in Heaven, forgive my stupidity :( '''
